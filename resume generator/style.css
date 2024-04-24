@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(12, 121, 151);
+}
+
+#cv-templete{
+    display: none;
+}
+
+.myimg{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.background{
+    background-color: rgb(41, 230, 173);
+}
+
+h3{
+    color: whitesmoke;
+}
